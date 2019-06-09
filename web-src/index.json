@@ -1,0 +1,61 @@
+{
+    "id": "index",
+    "stylesheet_file": "example_stylesheet",
+    "template_block_file": "raze-outer",
+    "sub_blocks": [
+        [
+            {
+                "id": "youtube-preview",
+                "html_snippet_file": "youtube-preview",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "play-buttons",
+                "html_snippet_file": "play-buttons",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "index-desc",
+                "css_class": "index-desc",
+                "markdown_file": "index-desc",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "screenshots",
+                "css_class": "screenshots",
+                "markdown_file": "screenshots",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "awards-img",
+                "css_class": "awards-img",
+                "markdown_file": "awards-img",
+                "width": 50
+            },
+            {
+                "id": "awards-text",
+                "css_class": "awards-text",
+                "markdown_file": "awards-text",
+                "width": 50
+            }
+        ],
+
+        [
+            {
+                "id": "footer",
+                "css_class": "footer",
+                "template_block_file": "footer",
+                "width": 100
+                
+            }
+        ]
+    ]
+}

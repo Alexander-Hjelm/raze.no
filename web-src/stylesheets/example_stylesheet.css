@@ -1,0 +1,142 @@
+p {
+    margin:0;
+}
+
+body {
+    background-color:black;
+}
+
+.heading {
+    background-color:#080808;
+    border-left:4px #606060 solid;
+    border-right:4px #606060 solid;
+}
+
+.content {
+    background-color:#080808;
+}
+
+.youtube {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    padding: 6px;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 2px;
+}
+
+.menubar-element {
+    color: #9C9C9C;
+    font: 15px arial;
+}
+
+.menubar-element:hover {
+  color: #EEEEEE;
+}
+
+.screenshots {
+  text-align: center;
+}
+
+.screenshots img {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.play-buttons {
+
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+
+    padding: 10px;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 2px;
+}
+
+.play-buttons button {
+     background-image: linear-gradient(to bottom, #6d6d6d, #0e0e0e);
+     color: white;
+     border: 1px solid #515151;
+     margin-right: 6px;
+     margin-left: 6px;
+     padding: 10px;
+     font-weight:bold;
+}
+
+.index-desc {
+    text-align: center;
+
+    color: #9C9C9C;
+    font: 15px arial;
+}
+
+.awards {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.awards-text {
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+    font: 32px arial;
+    float:left;
+    margin-left: 20px;
+}
+
+.awards-img img {
+    float:right;
+}
+
+.awards-img {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 40px;
+}
+
+.footer h2 {
+    text-align: center;
+    color: #ACACAC;
+    font: 30px arial;
+}
+
+.footer p {
+    text-align: center;
+    color: #9C9C9C;
+    font: 15px arial;
+    margin-bottom: 20px;
+}
+
+.footer a {
+    color: #FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}

@@ -1,0 +1,48 @@
+{
+    "id": "raze-out",
+    "sub_blocks": [
+        [
+            {
+                "id": "bg-left",
+                "markdown_file": "bg-left",
+                "width": 10
+            },
+            {
+                "id": "head",
+                "css_class": "heading",
+                "width": 80,
+                "sub_blocks": [
+                    [
+                        {
+                            "id": "logo",
+                            "markdown_file": "logo_heading",
+                            "width": 100
+                        }
+                        
+                    ],
+                    [
+                        {
+                            "id": "menubar",
+                            "html_snippet_file": "menubar",
+                            "width": 100
+                        }
+                        
+                    ],
+                    [
+                        {
+                            "id": "content",
+                            "css_class": "content",
+                            "is_inner": true,
+                            "width": 100
+                        }
+                    ]
+                ]
+            },
+            {
+                "id": "bg-right",
+                "markdown_file": "bg-right",
+                "width": 10
+            }
+        ]
+    ]
+}
