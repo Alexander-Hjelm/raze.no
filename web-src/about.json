@@ -1,0 +1,88 @@
+{
+    "id": "about",
+    "stylesheet_file": "example_stylesheet",
+    "template_block_file": "raze-outer",
+    "sub_blocks": [
+        [
+            {
+                "id": "about-raze",
+                "css_class": "about-raze",
+                "markdown_file": "about-raze",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "about-padding-left",
+                "width": 10
+            },
+            {
+                "id": "about-alexander",
+                "css_class": "about-person",
+                "markdown_file": "about-alexander",
+                "width": 26
+            },
+            {
+                "id": "about-martin",
+                "css_class": "about-person",
+                "markdown_file": "about-martin",
+                "width": 26
+            },
+            {
+                "id": "about-hua",
+                "css_class": "about-person",
+                "markdown_file": "about-hua",
+                "width": 26
+            },
+            {
+                "id": "about-padding-right",
+                "width": 10
+            }
+        ],
+        [
+            {
+                "id": "about-raze-lower",
+                "css_class": "about-raze-lower",
+                "markdown_file": "about-raze-lower",
+                "width": 100
+            }
+        ],
+        [
+            {
+                "id": "about-padding-left",
+                "width": 10
+            },
+            {
+                "id": "partner-ntnu-entrepeneur",
+                "css_class": "about-partner",
+                "markdown_file": "partner-ntnu-entrepeneur",
+                "width": 26
+            },
+            {
+                "id": "partner-ntnu",
+                "css_class": "about-partner",
+                "markdown_file": "partner-ntnu",
+                "width": 26
+            },
+            {
+                "id": "partner-kth",
+                "css_class": "about-partner",
+                "markdown_file": "partner-kth",
+                "width": 26
+            },
+            {
+                "id": "about-padding-right",
+                "width": 10
+            }
+        ],
+        [
+            {
+                "id": "footer",
+                "css_class": "footer",
+                "template_block_file": "footer",
+                "width": 100
+                
+            }
+        ]
+    ]
+}
