@@ -56,6 +56,14 @@
         ],
         [
             {
+                "id": "discord-invite",
+                "css_class": "screenshots",
+                "markdown_file": "discord-invite",
+                "width": 100
+            }
+        ],
+        [
+            {
                 "id": "footer",
                 "css_class": "footer",
                 "template_block_file": "footer",
