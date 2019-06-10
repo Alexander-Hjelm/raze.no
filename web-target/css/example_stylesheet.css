@@ -10,6 +10,7 @@ body {
     background-color:#080808;
     border-left:4px #606060 solid;
     border-right:4px #606060 solid;
+    height:100%
 }
 
 .content {
@@ -63,13 +64,17 @@ body {
 }
 
 .play-buttons button {
-     background-image: linear-gradient(to bottom, #6d6d6d, #0e0e0e);
+     background-image: linear-gradient(to bottom, #660000, #330000);
      color: white;
-     border: 1px solid #515151;
+     border: 1px solid #510000;
      margin-right: 6px;
      margin-left: 6px;
      padding: 10px;
      font-weight:bold;
+}
+
+.play-buttons button:hover {
+     background-image: linear-gradient(to bottom, #880000, #330000);
 }
 
 .index-desc {

@@ -1,1 +1,2 @@
-![alt text](img/logo_head.png "Logo Title Text 1")
+[![alt text](img/logo_head.png)](index.html)
+
