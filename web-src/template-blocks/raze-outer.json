@@ -15,10 +15,18 @@
                     [
                         {
                             "id": "logo",
+                            "css_class": "logo-head",
                             "markdown_file": "logo_heading",
                             "width": 100
                         }
                         
+                    ],
+                    [
+                        {
+                            "id": "play-button",
+                            "html_snippet_file": "play-button-head",
+                            "width": 100
+                        }
                     ],
                     [
                         {

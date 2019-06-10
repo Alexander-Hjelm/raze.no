@@ -13,6 +13,12 @@ body {
     height:100%
 }
 
+.logo-head p {
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+
 .content {
     background-color:#080808;
 }
@@ -33,6 +39,14 @@ body {
 .menubar-element {
     color: #9C9C9C;
     font: 15px arial;
+    padding-top:16px;
+}
+
+.menubar-element-img {
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-right:10px;
+    padding-left:10px;
 }
 
 .menubar-element:hover {
@@ -52,10 +66,11 @@ body {
 
 .play-buttons {
 
-    width: 600px;
+    width: 500px;
     text-align: center;
     margin-left: auto;
     margin-right: auto; 
+    margin-bottom: 10px; 
 
     padding: 10px;
     border-style: solid;
