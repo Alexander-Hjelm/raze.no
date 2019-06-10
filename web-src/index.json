@@ -47,7 +47,13 @@
                 "width": 50
             }
         ],
-
+        [
+            {
+                "id": "soundtrack",
+                "html_snippet_file": "soundtrack",
+                "width": 100
+            }
+        ],
         [
             {
                 "id": "footer",
