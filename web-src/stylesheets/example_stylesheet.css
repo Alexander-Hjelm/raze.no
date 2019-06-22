@@ -203,6 +203,29 @@ body {
     margin-bottom:20px;
 }
 
+.download button {
+    background-image: linear-gradient(to bottom, #660000, #330000);
+    color: white;
+    border: 1px solid #510000;
+    margin-right: 6px;
+    margin-left: 6px;
+    padding: 10px;
+    font-weight:bold;
+}
+
+.download h2 {
+    text-align: center;
+    color: #FFFFFF;
+    font: 24px arial;
+    font-weight:bold;
+}
+
+.download p {
+    text-align: center;
+    color: #9C9C9C;
+    font: 14px arial;
+}
+
 ul {
   list-style-type: none;
   margin: 0;

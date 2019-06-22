@@ -1,0 +1,33 @@
+{
+    "id": "download",
+    "stylesheet_file": "example_stylesheet",
+    "template_block_file": "raze-outer",
+    "sub_blocks": [
+        [
+            {
+                "id": "download-padding-left",
+                "width": 20
+            },
+            {
+                "id": "download",
+                "css_class": "download",
+                "html_snippet_file": "download",
+                "width": 60
+            },
+            {
+                "id": "download-padding-right",
+                "width": 20
+            }
+        ],
+        [
+            {
+                "id": "footer",
+                "css_class": "footer",
+                "template_block_file": "footer",
+                "width": 100
+                
+            }
+        ]
+    ]
+    
+}
