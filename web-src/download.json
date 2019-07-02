@@ -1,5 +1,6 @@
 {
     "id": "download",
+    "title": "RAZE: A 2D Cyberpunk Action Game!",
     "stylesheet_file": "example_stylesheet",
     "template_block_file": "raze-outer",
     "sub_blocks": [
@@ -14,7 +15,7 @@
                 "html_snippet_file": "download",
                 "width": 60
             },
-            {
+                {
                 "id": "download-padding-right",
                 "width": 20
             }
@@ -29,5 +30,4 @@
             }
         ]
     ]
-    
 }
