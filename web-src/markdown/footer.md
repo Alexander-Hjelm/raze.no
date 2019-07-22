@@ -1,6 +1,6 @@
 ## Contact
 Got suggestions? Found any bugs? Or just say hi!
-E-mail us at: [dev@raze.no](mailto:dev@raze.no)
+E-mail us at: [raze.developer@gmail.com](mailto:raze.developer@gmail.com)
 
 
 © Alexander Hjelm, 2019.
