@@ -66,6 +66,14 @@ body {
     width: 280px;
 }
 
+.discord {
+    text-align: center;
+}
+
+.discord img {
+    width: 600px;
+}
+
 .play-buttons {
 
     width: 500px;
