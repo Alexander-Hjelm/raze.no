@@ -36,6 +36,14 @@
         ],
         [
             {
+                "id": "screenshots-2",
+                "css_class": "screenshots",
+                "markdown_file": "screenshots-2",
+                "width": 100
+            }
+        ],
+        [
+            {
                 "id": "awards-img",
                 "css_class": "awards-img",
                 "markdown_file": "awards-img",
